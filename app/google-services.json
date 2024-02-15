@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353180982668",
+    "project_id": "e-notes-94171",
+    "storage_bucket": "e-notes-94171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353180982668:android:0ebd213865088b8b5acaa9",
+        "android_client_info": {
+          "package_name": "com.example.nsut_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MwKAYD6wPiQR2MvuA01QP_ybfXk9tWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

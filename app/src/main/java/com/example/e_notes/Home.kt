@@ -20,7 +20,7 @@ class Home : ComponentActivity() {
         SubjectArray = ArrayList()
         SubjectArray.add(Subject("Principles of Electrical Engineering (PEE)" , "PEE" , "Lab-PEE"))
         SubjectArray.add(Subject("Electrical Measurements (EM)" , "EM" , "Lab-EM"))
-        SubjectArray.add(Subject("          Mathematics-II          " , "Maths2" , "Lab-Maths2"))
+        SubjectArray.add(Subject("              Mathematics-II            " , "Maths2" , "Lab-Maths2"))
         SubjectArray.add(Subject("Introduction to Electromagnetic Theory (EMT)" , "EMT" , "Lab-EMT"))
         SubjectArray.add(Subject("Electronics Devices and Circuits (EDC)" , "EDC" , "Lab-EDC"))
         SubjectArray.add(Subject("Computer Programming (CP)" , "CP" , "Lab-CP"))

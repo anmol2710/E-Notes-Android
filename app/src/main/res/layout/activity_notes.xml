@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Notes"
-    android:orientation="vertical">
+    tools:context="com.example.e_notes.Notes"
+    android:orientation="vertical"
+    android:background="#0071c5">
 
     <com.google.android.flexbox.FlexboxLayout
         xmlns:android="http://schemas.android.com/apk/res/android"

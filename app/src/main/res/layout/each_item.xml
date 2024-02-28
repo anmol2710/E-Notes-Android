@@ -2,8 +2,10 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:padding="10dp">
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="#0071c5"
+    android:gravity="center">
 
     <TextView
         android:id="@+id/subject"
@@ -14,7 +16,7 @@
         android:textSize="30dp"
         android:textStyle="bold"
         android:layout_marginTop="10dp"
-        android:textColor="@color/black"/>
+        android:textColor="@color/white"/>
 
     <com.google.android.flexbox.FlexboxLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -30,7 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Notes"
-            android:background="#0000FF"
+            android:background="#073980"
             android:textColor="@color/white"
             android:textSize="20dp"
             android:textStyle="bold"
@@ -41,7 +43,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Lab Work"
-            android:background="#0000FF"
+            android:background="#073980"
             android:textColor="@color/white"
             android:textSize="20dp"
             android:textStyle="bold"
